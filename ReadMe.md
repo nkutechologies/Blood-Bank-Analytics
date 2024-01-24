@@ -71,8 +71,23 @@ Medicines and Medicine Donations Handling
 
 ### Patients Analytics
 
-![Patients Analytics](https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/85e983bb-db25-4dff-849f-e88dc2624cc5
+![Patients Analytics](https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/85e983bb-db25-4dff-849f-e88dc2624cc5)
 
 ### Salary Analysis
 
 ![Salary Analysis](https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/84f453b5-c648-4bb5-8f41-0c0a3f0e5d2c)
+
+## Videos
+
+
+
+https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/b845a749-1983-4ebd-bafa-e46f91e90e00
+
+
+
+https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/27417a21-94f4-429d-b01d-7e5d4eafaa30
+
+
+
+https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/71fcdea8-ca6b-4fb4-bd2f-f5bc0fc54f19
+
