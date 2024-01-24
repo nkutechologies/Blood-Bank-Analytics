@@ -1,5 +1,3 @@
-
-
 # Blood Bank Analytics
 
 Vitals -Blood Bank Management System has been designed to help small, medium, and large blood banks and blood centers, efficiently plan and manage mobile collection drives, meet regulatory requirements, and improve transfusion safety and traceability.
@@ -8,7 +6,16 @@ Vitals -Blood Bank Management System has been designed to help small, medium, an
 
 The Client wanted to develop a comprehensive Blood Bank Management Information System (BBMIS) that
 will help them improve their processes and overall efficiency of each of their departments such as Blood
-Campaign Management, Donor Management, Blood Ordering, reports, billing, Accounts & Payroll. 
+Campaign Management, Donor Management, Blood Ordering, reports, billing, Accounts & Payroll.
+
+### Tools & Technologies
+
+- Power BI
+- GoJs
+- D3
+- Chart.js
+- High Charts
+- Ag-Grid
 
 ## Modules
 
