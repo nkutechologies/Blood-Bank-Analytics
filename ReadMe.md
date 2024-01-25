@@ -64,25 +64,15 @@ Medicines and Medicine Donations Handling
 
 ![Financial Anlytics](https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/a4fe1e98-742e-473b-8d58-41c09ffc6b4e)
 
-### Inventory Analytics
-
-![Inventory Analysis](https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/3f55c2f8-9074-49b3-a8aa-8911cda133b9)
 
 ### Lab Analytics
 
 ![Lab Analytics](https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/10393663-0f79-4ca4-b648-6e46b7bb0e1e)
 
-### Leave Analytics
-
-![Leave Analysis](https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/7f72adb3-65cc-41f1-8186-512555a5ba21)
 
 ### Patients Analytics
 
 ![Patients Analytics](https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/85e983bb-db25-4dff-849f-e88dc2624cc5)
-
-### Salary Analysis
-
-![Salary Analysis](https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/84f453b5-c648-4bb5-8f41-0c0a3f0e5d2c)
 
 ## Videos
 
@@ -93,8 +83,3 @@ https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/b845a749-
 
 
 https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/27417a21-94f4-429d-b01d-7e5d4eafaa30
-
-
-
-https://github.com/nkutechologies/Blood-Bank-Analytics/assets/71810407/71fcdea8-ca6b-4fb4-bd2f-f5bc0fc54f19
-
